@@ -1,0 +1,8 @@
+# Files
+*.gpx
+tracking_app.ipynb
+bokeh_example.ipynb
+*.html
+
+# Folder
+data/*

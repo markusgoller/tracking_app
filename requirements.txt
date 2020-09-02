@@ -1,0 +1,9 @@
+python2.7
+numpy
+gpxpy
+pandas
+matplotlib
+basemap
+
+
+
