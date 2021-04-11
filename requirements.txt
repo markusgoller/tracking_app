@@ -4,6 +4,8 @@ gpxpy
 pandas
 matplotlib
 basemap
+haversine
+pillow
 
 
 

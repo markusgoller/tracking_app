@@ -1,9 +1,9 @@
 # Files
 *.gpx
 tracking_app.ipynb
-bokeh_example.ipynb
 tracking_app_berlin.ipynb
-bokeh_example.ipynb
+bokeh_example.ipyn
+mogrify.ipynb
 *.html
 
 # Folder
