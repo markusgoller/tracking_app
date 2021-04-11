@@ -2,7 +2,7 @@
 *.gpx
 tracking_app.ipynb
 tracking_app_berlin.ipynb
-bokeh_example.ipyn
+bokeh_example.ipynb
 mogrify.ipynb
 *.html
 
