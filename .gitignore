@@ -6,5 +6,9 @@ bokeh_example.ipynb
 mogrify.ipynb
 *.html
 
+# Python
+__pycache__
+*.pyc 
+
 # Folder
 data_extra/*
